@@ -1,7 +1,5 @@
 # E-commerce
 
-# e-com
-
 ## Project setup
 ```
 npm install
