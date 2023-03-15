@@ -1,19 +1,38 @@
-# E-commerce
 
-## Explanation
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+# E-commerce Web App with Vuejs and Nodejs 
+
+An EXAMPLE application of an E-shop. Contains both, front-end and back-end codes.
+
+
+## Deployment
+To deploy this project, first you should head to backend directory. Built codes of vue application have been added to publice directory in backend files. 
+
+```bash
+  cd backend
 ```
-This code is an implementation of an example e-commerce shop. It has 2 separate parts for front-end and back-end codes. 
-But the file to deploy on the web server is backend file which contains the builded front-end part in public directory. 
-It is fully ready to deploy. 
+and then run
+
+```bash
+  node app.js
 ```
 
-## Project setup
-```
-cd backend
-npm install
-```
 
-### Deploy project
-```
-node app.js
-```
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`Connection_DB`
+
+
+
+## Features
+
+- JWT token base authentication
+- BootStrapVue App
+
+
