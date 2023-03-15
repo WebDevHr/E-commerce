@@ -9,22 +9,13 @@ It is fully ready to deploy.
 
 ## Project setup
 ```
+cd backend
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Deploy project
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+node app.js
 ```
 
 ### Customize configuration
