@@ -1,6 +1,6 @@
 # E-commerce
 
-# Explanation
+## Explanation
 ```
 This code is an implementation of an example e-commerce shop. It has 2 separate parts for front-end and back-end codes. 
 But the file to deploy on the web server is backend file which contains the builded front-end part in public directory. 
