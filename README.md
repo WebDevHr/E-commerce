@@ -1,6 +1,6 @@
 
 ![App Screenshot](https://live.staticflickr.com/65535/52755105237_a2b3c9c339_k.jpg)
-
+![App Screenshot](https://live.staticflickr.com/65535/52755890884_d99e95db6f_k.jpg)
 
 # E-commerce Web App with Vuejs and Nodejs 
 
