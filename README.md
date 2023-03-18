@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://live.staticflickr.com/65535/52755105237_a2b3c9c339_k.jpg)
 
 
 # E-commerce Web App with Vuejs and Nodejs 
